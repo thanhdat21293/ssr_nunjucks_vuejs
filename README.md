@@ -2,9 +2,11 @@
 
 ## So sánh Nunjucks vs VueJS
 
+Em tự đánh giá
+
 |--|Nunjucks|VueJS|
-|:--:|:----:|:----------|
-|SEO|-|-|
+|:--|:----:|:---------:|
+|SEO|5|5|
 |De lap trinh|5|4|
 |De bao tri|||
 |Do on dinh|||
