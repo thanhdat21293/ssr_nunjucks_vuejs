@@ -7,14 +7,14 @@ Em tự đánh giá
 |--|Nunjucks|VueJS|
 |:--|:----:|:---------:|
 |SEO|5|5|
-|De lap trinh|5|4|
-|De bao tri|||
-|Do on dinh|||
-|Phan tach components|3|5|
-|Filter ho tro|5|3|
-|Kha nang reload|||
-|Cong dong ho tro|3|5|
-|Trai nghiem nguoi dung|||
+|Dễ lập trình|5|4|
+|Dễ bảo trì|||
+|Độ ổn định|||
+|Phân tách components|3|5|
+|Filter hỗ trợ|5|3|
+|Khả năng reload|||
+|Cộng đồng hỗ trợ|3|5|
+|Trải nghiệm người dùng|-|-|
 |Code nhanh|4|5|
 
 ## Nunjucks
